@@ -1,0 +1,59 @@
+Tgraphgenetic
+v7
+r0
+t316986160.502266
+cCheck dependencies
+cCompileC build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/main.o /Users/socket/Development/GraphGenetic/graphgenetic/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/graphgenetic normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/graphgenetic
+t1295293360
+s10608
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/graphgenetic.LinkFileList
+c000000004D349BA90000000000000083
+t1295293353
+s131
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/main.o
+t1295293359
+s67008
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/main.cpp
+c000000004D349BA1000000000000008F
+t1295293345
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316986152#316986153#0(0"0(0#1#0"32088628383449192#0"0#
+
+CCompileC build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/main.o /Users/socket/Development/GraphGenetic/graphgenetic/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s316986153.607617
+e316986159.295250
+r1
+xCompileC
+xbuild/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/main.o
+x/Users/socket/Development/GraphGenetic/graphgenetic/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/socket/Development/GraphGenetic/graphgenetic/main.cpp316986153#316986159#0(0"0(0#0#60"/Users/socket/Development/GraphGenetic/graphgenetic/main.cpp7307761437599099904#1524"    cd /Users/socket/Development/GraphGenetic/graphgenetic    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-generated-files.hmap -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-own-target-headers.hmap -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-all-target-headers.hmap -iquote /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-project-headers.hmap -F/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug -I/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/include -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/DerivedSources/x86_64 -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/DerivedSources -c /Users/socket/Development/GraphGenetic/graphgenetic/main.cpp -o /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/graphgenetic normal x86_64
+s316986159.295492
+e316986160.502065
+r1
+xLd
+x/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/graphgenetic
+xnormal
+xx86_64
+lSLF07#2@81"Link /Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/graphgenetic316986159#316986160#0(0"0(0#0#0"27584749587595368#583"    cd /Users/socket/Development/GraphGenetic/graphgenetic    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug -F/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug -filelist /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/graphgenetic.LinkFileList -mmacosx-version-min=10.6 -o /Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/graphgenetic0#
+

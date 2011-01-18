@@ -1,0 +1,181 @@
+Tgraphgenetic
+v7
+r0
+t317008977.878570
+cCheck dependencies
+cCompileC build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/main.o /Users/socket/Development/GraphGenetic/graphgenetic/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/GGPopulation.o /Users/socket/Development/GraphGenetic/graphgenetic/GGPopulation.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/GGIndividual.o /Users/socket/Development/GraphGenetic/graphgenetic/GGIndividual.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/GGUtil.o /Users/socket/Development/GraphGenetic/graphgenetic/GGUtil.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/graphgenetic normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/GGCommon.h
+c000000004D34A8CC0000000000000125
+t1295296716
+s293
+i<set>
+i<list>
+i<vector>
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/GGIndividual.cpp
+c000000004D34F1D50000000000000CCA
+t1295315413
+s3274
+i"GGIndividual.h"
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/GGIndividual.h
+c000000004D34F1580000000000000328
+t1295315288
+s808
+i"GGUtil.h"
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/GGPopulation.cpp
+c000000004D34F191000000000000098E
+t1295315345
+s2446
+i"GGPopulation.h"
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/GGPopulation.h
+c000000004D34F14C00000000000002BE
+t1295315276
+s702
+i"GGIndividual.h"
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/GGUtil.cpp
+c000000004D34F1730000000000000C6E
+t1295315315
+s3182
+i"GGUtil.h"
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/GGUtil.h
+c000000004D34F16D0000000000000302
+t1295315309
+s770
+i<set>
+i<list>
+i<vector>
+i<iostream>
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/Population.cpp
+c000000004D349C1500000000000000B2
+t1295293461
+s178
+i"Population.h"
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/Population.h
+c000000004D349C150000000000000097
+t1295293461
+s151
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/graphgenetic
+t1295316171
+s115440
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/GGIndividual.o
+t1295315414
+s144720
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/GGPopulation.o
+t1295315345
+s168724
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/GGUtil.o
+t1295315315
+s196396
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/Population.o
+t2
+s0
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/graphgenetic.LinkFileList
+c000000004D34AAE6000000000000021E
+t1295297254
+s542
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/main.o
+t1295316171
+s173828
+
+N/Users/socket/Development/GraphGenetic/graphgenetic/main.cpp
+c000000004D34F4CA0000000000000402
+t1295316170
+s1026
+i<iostream>
+i"GGUtil.h"
+i"GGIndividual.h"
+i"GGPopulation.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317008977#317008977#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/GGIndividual.o /Users/socket/Development/GraphGenetic/graphgenetic/GGIndividual.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s317008214.636931
+e317008214.638511
+r1
+xCompileC
+xbuild/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/GGIndividual.o
+x/Users/socket/Development/GraphGenetic/graphgenetic/GGIndividual.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/socket/Development/GraphGenetic/graphgenetic/GGIndividual.cpp317008214#317008214#0(0"0(0#0#68"/Users/socket/Development/GraphGenetic/graphgenetic/GGIndividual.cpp4300911832#1540"    cd /Users/socket/Development/GraphGenetic/graphgenetic    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-generated-files.hmap -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-own-target-headers.hmap -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-all-target-headers.hmap -iquote /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-project-headers.hmap -F/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug -I/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/include -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/DerivedSources/x86_64 -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/DerivedSources -c /Users/socket/Development/GraphGenetic/graphgenetic/GGIndividual.cpp -o /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/GGIndividual.o0#
+
+CCompileC build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/GGPopulation.o /Users/socket/Development/GraphGenetic/graphgenetic/GGPopulation.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s317008149.336388
+e317008149.337317
+r1
+xCompileC
+xbuild/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/GGPopulation.o
+x/Users/socket/Development/GraphGenetic/graphgenetic/GGPopulation.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/socket/Development/GraphGenetic/graphgenetic/GGPopulation.cpp317008149#317008149#0(0"0(0#0#68"/Users/socket/Development/GraphGenetic/graphgenetic/GGPopulation.cpp4300911832#1540"    cd /Users/socket/Development/GraphGenetic/graphgenetic    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-generated-files.hmap -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-own-target-headers.hmap -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-all-target-headers.hmap -iquote /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-project-headers.hmap -F/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug -I/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/include -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/DerivedSources/x86_64 -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/DerivedSources -c /Users/socket/Development/GraphGenetic/graphgenetic/GGPopulation.cpp -o /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/GGPopulation.o0#
+
+CCompileC build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/GGUtil.o /Users/socket/Development/GraphGenetic/graphgenetic/GGUtil.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s317008115.974233
+e317008115.975184
+r1
+xCompileC
+xbuild/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/GGUtil.o
+x/Users/socket/Development/GraphGenetic/graphgenetic/GGUtil.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/socket/Development/GraphGenetic/graphgenetic/GGUtil.cpp317008115#317008115#0(0"0(0#0#62"/Users/socket/Development/GraphGenetic/graphgenetic/GGUtil.cpp4300911832#1528"    cd /Users/socket/Development/GraphGenetic/graphgenetic    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-generated-files.hmap -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-own-target-headers.hmap -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-all-target-headers.hmap -iquote /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-project-headers.hmap -F/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug -I/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/include -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/DerivedSources/x86_64 -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/DerivedSources -c /Users/socket/Development/GraphGenetic/graphgenetic/GGUtil.cpp -o /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/GGUtil.o0#
+
+CCompileC build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/Population.o /Users/socket/Development/GraphGenetic/graphgenetic/Population.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/main.o /Users/socket/Development/GraphGenetic/graphgenetic/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s317008971.195886
+e317008971.303271
+r1
+xCompileC
+xbuild/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/main.o
+x/Users/socket/Development/GraphGenetic/graphgenetic/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/socket/Development/GraphGenetic/graphgenetic/main.cpp317008971#317008971#0(0"0(0#0#60"/Users/socket/Development/GraphGenetic/graphgenetic/main.cpp4300911832#1524"    cd /Users/socket/Development/GraphGenetic/graphgenetic    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-generated-files.hmap -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-own-target-headers.hmap -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-all-target-headers.hmap -iquote /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/graphgenetic-project-headers.hmap -F/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug -I/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/include -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/DerivedSources/x86_64 -I/Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/DerivedSources -c /Users/socket/Development/GraphGenetic/graphgenetic/main.cpp -o /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/graphgenetic normal x86_64
+s317008971.303548
+e317008971.332026
+r1
+xLd
+x/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/graphgenetic
+xnormal
+xx86_64
+lSLF07#2@81"Link /Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/graphgenetic317008971#317008971#0(0"0(0#0#0"4300911832#583"    cd /Users/socket/Development/GraphGenetic/graphgenetic    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug -F/Users/socket/Development/GraphGenetic/graphgenetic/build/Debug -filelist /Users/socket/Development/GraphGenetic/graphgenetic/build/graphgenetic.build/Debug/graphgenetic.build/Objects-normal/x86_64/graphgenetic.LinkFileList -mmacosx-version-min=10.6 -o /Users/socket/Development/GraphGenetic/graphgenetic/build/Debug/graphgenetic0#
+
